@@ -167,6 +167,12 @@ const themes = {
     path: 'devui-blue.scss',
     ref: '2caac0c',
   },
+  'markdown-simple': {
+    owner: 'xiaolongOba',
+    repo: 'markdown-simple',
+    path: 'markdown-simple.scss',
+    ref: 'ea06484',
+  },
 };
 
 export default themes;
